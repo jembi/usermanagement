@@ -1,0 +1,2 @@
+org/openmrs/module/usermanagement/extension/html/AdminList.class
+org/openmrs/module/usermanagement/web/controller/UserManagementController.class

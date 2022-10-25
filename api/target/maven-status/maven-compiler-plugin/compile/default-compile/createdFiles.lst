@@ -1,0 +1,6 @@
+org/openmrs/module/usermanagement/api/impl/UserManagementServiceImpl.class
+org/openmrs/module/usermanagement/UserManagementConfig.class
+org/openmrs/module/usermanagement/UserManagementActivator.class
+org/openmrs/module/usermanagement/api/UserManagementService.class
+org/openmrs/module/usermanagement/Item.class
+org/openmrs/module/usermanagement/api/dao/UserManagementDao.class
